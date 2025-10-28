@@ -1,0 +1,1 @@
+This demo project showcases my coding style and architecture approach using selected modules from a previous production app. It’s not a full or runnable project — only a demonstration of structure, code quality, and development practices. Some modules, data sources have been intentionally removed or simplified for demonstration purposes.
