@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="charade">#1C1B1F</color>
+    <color name="notificationColor">#ff1e3d6e</color>
+    <color name="alert_push">#6E1E22</color>
+</resources>

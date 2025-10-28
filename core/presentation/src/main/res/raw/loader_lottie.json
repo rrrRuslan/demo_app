@@ -1,0 +1,108 @@
+{
+  "v": "5.9.6",
+  "fr": 60,
+  "ip": 0,
+  "op": 190,
+  "w": 375,
+  "h": 812,
+  "nm": "Comp 1",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 128,
+      "h": 128,
+      "u": "",
+      "p": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAJHpUWHRDcmVhdG9yAAAImXNMyU9KVXBMK0ktUnBNS0tNLikGAEF6Bs5qehXFAAAACXBIWXMAAAABAAAAAQBPJcTWAAAANlBMVEVHcEzZfhPtnBrTbBDTbBDTbBDSaxDTaxHQaBDaeRP/vSL/vSL/vSL/vSL/vSLTbBDTbBH/vSOPGwSxAAAAEHRSTlMAECaAm8Fl5iBB5MOIYaKvT8XczwAABG5JREFUeNrtW9mioyAMlZ2I3uL//+y0VlwAFQIt89C8zvTmeBKyQtf95CdloqExAMYbA1CqrX6wtq0NuLVtbaCsVaStBdragL8AiLYWaGoDaWeRzQA83gCa2UDbRUhbC1jLGgEQDoBobAFraVsLtLKB2gBUT4lUJ/wfu5OEcExy7EQsv4XA9wBuU6LmVudQ8EqzOtkCtzYAkZu2Zw9/wF0iTLMBzOdVY864kGkWuPq+t/rsusV9oJIpFjhPidJFK40Oc3EIngXiKZEwleylVxqUJHcWiIXjnXpU2ST2BDPtn9NAyIV6VLbwSD6eShkCkMdjr2xmoLqmwIcgQgAicPwyAmJfuUIggnMpQb+FAkj2EPpMPbpoU+FnPm65jKhH5ypmI8IzMkQhAR2JUMBv6j9dkYAYBf630Kdk/whPgdp5ABkH00+z9GYY6bnzllQrx69RetNuJk/MhoGqSgR4FKz6ydBPMflzELSytco1Huo/U/+SgYYIygpWHeiHc/Uvdxh9BEp3VShwf2eYbmTwEJQOUOCgn5jpVgw9ICgkYEk7i36aoP9pBrqDXj5B2k1hSD8lSU+2eFBMwEzB4shmShRTdYQG7q8MU7IMDnsFAp4f8mZ0nDJkXOqimu1inwOgrz80GaYsGar3y1Om1J5Z/OUC+Ks2iMERME1vLyj0BSKFyD8Cey8QQuoC7WssNfkA+jWZCYnhAZbehiEtsLjhu6ZSHHDaXUE1YgCMhwIxA4M+tJWAOgPrOdh3mIrrVMP7AAwGQB/M0l7uoLO0u3w6ocQbp64YTlySgIh0QjMAggNAowBeJwsu3S4EQCsDCFwS2In2p8z/jgMw6zj9w4pv6YLyFgAYfNoEkGwCh+FLPqAEkP/xGC5h0Mcwe0qPDkSQpT02YsOHYhOEYqa/mowGbDKqlY6hIB0HBUn//YLEuaTAFOVbVSoKtHe7qpIiC6JO1yqODeoMVBRAuWBNMRgPqNqb9QgPqCMM0Z4PFdtz7dYNJtsDRZW1OncjGpJshGVMVWdEo7dxb6obLPpZnSHVXKUomoHgMKYrvlmwzBvdoLBP1r+MzIsvGbHjqJbeVgbeoLSUgnDoPKSMx/a/K6NAhuP6KxJM9XF9dGEBJxHBQGxlUkTBcf2jtqXMX+CN/bCmHzi2GKwSAd7SCtad1by1go8srcLlLfMaahhH8BZ3vOLaLra41F9cXErE6lbEfgP1CBCo5TXyshuc86/Fg0kA6tb3UnIuyHmTi6NA+P389QWGx765q0EBeOrJzWbfu8JRTgE/Vx+7xKKCFreQAn2hPmYDfj3wBDwBKtpbyRQ/01KhKdDrRCHxasFZLFHIq1z87tiL1Pi0QOAIAkSl63xvCCSXgJugR3IvNLI8Au5jbt6VTuBZhQnQzECV4GK6+uVjVZxtarQsLS/4Q5YFPiGtL7dvKbHVE4vmDxycDdo9dZJlNWe5kM/c7c+1QcvHZrL1U69XSmz74LD5cz9o9cJmS4mNn3x2XDYGALr7yU/K5B8SHSW9RbiyRgAAAABJRU5ErkJggg==",
+      "e": 1
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 20,
+      "ty": 2,
+      "nm": "loading_sun_wxusa_comp (1) 1.png",
+      "cl": "png",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": {
+          "a": 0,
+          "k": 100,
+          "ix": 11
+        },
+        "r": {
+          "a": 1,
+          "k": [
+            {
+              "i": {
+                "x": [
+                  0.833
+                ],
+                "y": [
+                  0.833
+                ]
+              },
+              "o": {
+                "x": [
+                  0.167
+                ],
+                "y": [
+                  0.167
+                ]
+              },
+              "t": 0,
+              "s": [
+                0
+              ]
+            },
+            {
+              "t": 190,
+              "s": [
+                360
+              ]
+            }
+          ],
+          "ix": 10
+        },
+        "p": {
+          "a": 0,
+          "k": [
+            187.5,
+            406,
+            0
+          ],
+          "ix": 2,
+          "l": 2
+        },
+        "a": {
+          "a": 0,
+          "k": [
+            64,
+            64,
+            0
+          ],
+          "ix": 1,
+          "l": 2
+        },
+        "s": {
+          "a": 0,
+          "k": [
+            100,
+            100,
+            100
+          ],
+          "ix": 6,
+          "l": 2
+        }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 248,
+      "st": 0,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}
